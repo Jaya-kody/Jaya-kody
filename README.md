@@ -1,62 +1,77 @@
-👋 Hi, I’m @Jaya-kody aka Madri 👩‍🔬 
+# Hi, I'm Madri Jayakody 👩‍🔬
 
-**🌍 Location**: Vancouver, BC, Canada  
-**📚 Background**: Chemist | Air Quality Specialist | Small Business Owner  
-**🔬 Research Interests**: Indoor Air Quality, Data Analysis, IoT  
+**Research Scientist | Analytical Chemistry | Molecular Biology | Scientific Computing**
 
----
+📍 Vancouver, British Columbia, Canada
 
-## 👋 About Me
+## 🔬 About Me
 
-Hi, I'm Madushika! I'm the Co-Founder and Research Lead at **Jayakody Lab**, specializing in indoor air quality consulting. With a strong background in chemistry and project management, I enjoy tackling challenges related to air quality, particulate matter analysis, and sustainable living.
+I'm a multidisciplinary scientist with a research background spanning analytical chemistry, molecular biology, microbiology, and biochemistry. I hold master's degrees in Chemistry and Molecular & Applied Microbiology, with experience in academic research, laboratory instruction, scientific data analysis, and experimental method development.
 
-- 🧪 **Chemistry Expertise**: Master's degree in Chemistry with hands-on experience in research and teaching.
-- 📊 **Data Skills**: Proficient in Python for data analysis, visualization, and automation.
-- 🌱 **Sustainability Advocate**: Dedicated to improving indoor environments and promoting eco-friendly practices.
+My research experience includes atmospheric and indoor aerosol chemistry, photochemical processes, analytical instrumentation, recombinant protein expression, and enzyme characterization.
 
----
+I'm particularly interested in integrating experimental science with computational approaches to investigate complex biological and chemical systems. I'm currently expanding my skills in Python, machine learning, and bioinformatics, with an emphasis on practical applications in scientific research.
 
-## 💻 Current Projects
+## 🧪 Research Experience & Technical Skills
 
-- **Indoor Air Quality Consulting**: Helping clients assess and improve their indoor environments.
-- **IoT Learning Journey**: Exploring IoT applications for air quality monitoring and beyond.
-- **Grant Writing & Research**: Developing projects for Jayakody Lab to expand its reach and impact.
+**Analytical Chemistry & Instrumentation**
+- Gas Chromatography–Mass Spectrometry (GC-MS)
+- Liquid Chromatography–Mass Spectrometry (LC-MS)
+- High-Performance Liquid Chromatography (HPLC)
+- UV-Visible Spectroscopy
+- Aerosol characterization using SMPS and OPS
+- Analytical method development and experimental data interpretation
 
----
+**Molecular Biology & Biochemistry**
+- Molecular cloning and recombinant protein expression
+- PCR and molecular biology techniques
+- Enzyme activity assays and protein characterization
+- Microbiology and biotechnology
 
-## 🌟 Skills
+**Scientific Computing & Data Analysis**
+- Python, R, MATLAB, and Excel
+- Experimental data analysis and visualization
+- Statistical analysis and regression
+- Scientific data processing
+- Currently developing skills in machine learning and computational biology
 
-- **Programming & Tools**: Python, MATLAB, Excel, Power BI, Git.
-- **Research & Analysis**: Air quality testing, data visualization, method development.
-- **Project Management**: Process mapping, client collaboration, protocol design.
-- **Technical Writing**: SOPs, operational manuals, and research protocols.
+## 📚 Selected Publication
 
----
+**Singlet oxygen is produced from brown carbon-containing cooking organic aerosols (BrCOA) under indoor lighting**
 
-## 🤝 Let's Collaborate!
+Borduas-Dedekind, N., Gemmell, K. J., Jayakody, M. M., et al. (2024).
 
-I'm always looking to connect with professionals in:
-- Air quality solutions and technology development.
-- IoT and AI applications for environmental monitoring.
-- Community education and engagement in sustainability.
+*Environmental Science: Atmospheres*, 4, 611–619.
 
-Feel free to [reach out via email](mailto:madri@jayakodylab.com)!
+[Read the publication](https://doi.org/10.1039/D3EA00167A)
 
----
+This study investigated the photochemical production of singlet oxygen from cooking-generated organic aerosols under different indoor lighting conditions.
 
-## 📌 Highlighted Work (Private Repositories)
+My research contributions included cooking aerosol experiments, UV-Vis spectroscopic measurements, and collection of photochemical experimental data.
 
-Most of my projects and scripts are private to maintain client confidentiality and intellectual property. However, I’m happy to discuss my expertise and past projects directly.
+## 💻 Projects & Scientific Computing
 
----
+I'm developing this GitHub portfolio to document my scientific research, computational projects, and ongoing learning.
 
-## 🚀 Fun Fact
+**Current areas of focus:**
+- Scientific data analysis and visualization using Python
+- Machine learning fundamentals and regression modeling
+- Computational approaches to analytical chemistry
+- Bioinformatics and biological data analysis
+- Reproducible scientific workflows
 
-When I'm not working, I enjoy experimenting with vegetarian recipes, exploring Vancouver, and learning new tech skills.
+Projects and supporting documentation will be added as they are developed.
 
----
+## 🎯 Research Interests
 
-<!---
-Jaya-kody/Jaya-kody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Computational biology and bioinformatics
+- Machine learning applications in chemistry and life sciences
+- Analytical chemistry and mass spectrometry
+- Molecular biology, biochemistry, and biotechnology
+- Atmospheric chemistry and environmental photochemistry
+
+## 🤝 Connect
+
+I'm interested in interdisciplinary research collaborations and opportunities involving scientific computing, analytical chemistry, molecular biology, and bioinformatics.
+
+[GitHub](https://github.com/Jaya-kody) | [LinkedIn](https://www.linkedin.com/in/madri-jayakody/)
